@@ -1,7 +1,7 @@
 # Fortnite Pak Mods by Soggs
 Clientsided Cosmetic Pak Mods for Fortnite Private servers (v1.7.2 - v10.40)
 
-Archived from 2023. 
+Archived from 2023. Windows only.
 
 How to use:
 1) Download a cosmetic pak from one of the appropriate folders.

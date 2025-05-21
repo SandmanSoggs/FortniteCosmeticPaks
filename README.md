@@ -1,5 +1,5 @@
 # Fortnite Pak Mods by Soggs
-Clientsided Cosmetic Pak Mods for Fortnite Private servers (v3.5 - v10.40)
+Clientsided Cosmetic Pak Mods for Fortnite Private servers (v1.7.2 - v10.40)
 
 Archived from 2023. 
 
